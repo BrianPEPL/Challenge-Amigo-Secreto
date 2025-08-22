@@ -122,5 +122,5 @@ Desarrollado como proyecto de práctica en la plataforma de ALURA-LATAM para for
 
 ## 🔗 Enlace
 
-- [Repositorio](https://github.com/tu-usuario/amigo-secreto)
+- [Repositorio](https://github.com/BrianPEPL/Challenge-Amigo-Secreto.git)
 
